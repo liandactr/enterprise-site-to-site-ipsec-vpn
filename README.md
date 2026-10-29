@@ -438,12 +438,12 @@ Project ini mendemonstrasikan keterampilan dasar jaringan dan keamanan berikut:
 enterprise-site-to-site-ipsec-vpn/
 ├── README.md
 ├── enterprise-site-to-site-ipsec-vpn.pkt
-├── topology.png
 ├── ospf-routing.png
 ├── ipsec-status.png
+├── ping-br1-to-br2.png
 ├── ping-br1.png
 ├── ping-br2.png
-├── ping-br1-to-br2.png
+├── topology.png
 ├── vpn-config-1.png
 └── vpn-config-2.png
 ```
