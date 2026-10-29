@@ -376,7 +376,8 @@ Semua gambar berikut disimpan langsung di direktori utama repository, sejajar de
 
 ### 7. Konfigurasi VPN dan ACL
 
-![Konfigurasi VPN dan ACL](vpn-config.png)
+![Konfigurasi VPN dan ACL](vpn-config-1.png)
+![Konfigurasi VPN dan ACL](vpn-config-2.png)
 
 ## Troubleshooting
 
