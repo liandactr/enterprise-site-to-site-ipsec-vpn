@@ -444,12 +444,11 @@ enterprise-site-to-site-ipsec-vpn/
 ├── ping-br1.png
 ├── ping-br2.png
 ├── ping-br1-to-br2.png
-└── vpn-config.png
+├── vpn-config-1.png
+└── vpn-config-2.png
 ```
 
 File `.pkt` berisi simulasi jaringan Cisco Packet Tracer. Seluruh file PNG disimpan langsung di direktori utama repository untuk mendokumentasikan topologi, routing OSPF, status VPN, konfigurasi, dan hasil pengujian konektivitas.
-
-Nama file `.pkt` pada struktur di atas mengikuti nama proyek. Sesuaikan jika nama file yang diunggah berbeda.
 
 ## Status Project
 
