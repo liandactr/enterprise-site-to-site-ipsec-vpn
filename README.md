@@ -354,43 +354,29 @@ Semua gambar berikut disimpan langsung di direktori utama repository, sejajar de
 
 ![Topologi Jaringan](topology.png)
 
-Memperlihatkan seluruh router, switch, PC, laptop, printer, server, dan koneksi antarjaringan.
-
 ### 2. Verifikasi Routing OSPF
 
 ![Verifikasi Routing OSPF](ospf-routing.png)
-
-Memperlihatkan rute OSPF menuju LAN BR1 dan BR2 pada R-HQ.
 
 ### 3. Status VPN IPsec
 
 ![Verifikasi VPN IPsec](ipsec-status.png)
 
-Memperlihatkan status IKE/ISAKMP dan informasi Security Association IPsec.
-
 ### 4. Pengujian HQ ke BR1
 
 ![Pengujian Ping BR1](ping-br1.png)
-
-Memperlihatkan hasil ping dari PC HQ menuju PC BR1.
 
 ### 5. Pengujian HQ ke BR2
 
 ![Pengujian Ping BR2](ping-br2.png)
 
-Memperlihatkan hasil ping dari PC HQ menuju PC BR2.
-
 ### 6. Pengujian BR1 ke BR2
 
 ![Pengujian Ping Antar-Cabang](ping-br1-to-br2.png)
 
-Memperlihatkan hasil ping dari PC BR1 menuju PC BR2 dengan 0% packet loss.
-
-### 7. Konfigurasi VPN dan ACL (Opsional)
+### 7. Konfigurasi VPN dan ACL
 
 ![Konfigurasi VPN dan ACL](vpn-config.png)
-
-Gunakan screenshot konfigurasi crypto map, transform set, ISAKMP, dan ACL untuk mendokumentasikan konfigurasi secara lebih detail.
 
 ## Troubleshooting
 
